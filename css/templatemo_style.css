@@ -67,7 +67,7 @@ form button.form-control,
 form textarea.form-control ,
 form select.form-control {
     border: 0px;
-    background-color: transparent;
+    background-color: white;
     border-bottom: 3px solid #233842;
     border-radius: 0px;
     height: 45px;
@@ -91,7 +91,7 @@ form button.form-control:focus {
 form textarea.form-control { min-height: 120px;}
 form .input-group-addon { 
     border: 0px;
-    background-color: transparent;
+    background-color: floralwhite;
     border-bottom: 3px solid #233842;
     vertical-align: top;
     border-radius: 0;
@@ -161,12 +161,12 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
 }
 /***** Home *****/
 #templatemo_home {
-    background: #154558 url(../images/jumbo_background.jpg) fixed;
+    background: #154558 url(../images/man-person-hands-apple.jpg) fixed;
     /*background:  url(../images/.jpg) fixed;*/
     background-size: cover;
     min-height: 100vh;
     padding-bottom: 130px;
-    color: #fff;
+    color: #e07628;
 }
 #templatemo_home .templatemo_home_inner_wapper {
     width: 100%;
