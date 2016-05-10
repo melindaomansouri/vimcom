@@ -318,11 +318,12 @@ nav.main-menu a:link, nav.main-menu a:hover, nav.main-menu a:focus, nav.main-men
     line-height: 2.5em;
     color: #fff;
 }
+.postbuttoncolor {color: #666}
 #templatemo_contact form .form-group { margin-top: 30px;}
 #templatemo_contact form input.form-control,
 #templatemo_contact form button.form-control,
 #templatemo_contact form textarea.form-control ,
-#templatemo_contact form select.form-control { border-bottom: 3px solid #fff;color: #fff;}
+#templatemo_contact form select.form-control { border-bottom: 3px solid #fff;color:  #4A4A4A;}
 #templatemo_contact form input.form-control:focus,
 #templatemo_contact form button.form-control:focus,
 #templatemo_contact form textarea.form-control:focus { border-bottom-color: #275267;}
