@@ -404,3 +404,48 @@ footer {
         width: 60px;
     }
 }
+
+.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #258f25;
+    border-radius: 8px;
+    background: #3ce93c;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3ce93c), to(#258f25));
+    background: -moz-linear-gradient(top, #3ce93c, #258f25);
+    background: linear-gradient(to bottom, #3ce93c, #258f25);
+    text-shadow: #175a17 1px 1px 1px;
+    font: normal normal bold 25px verdana;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    background: #48ff48;
+    background: -webkit-gradient(linear, left top, left bottom, from(#48ff48), to(#2cac2c));
+    background: -moz-linear-gradient(top, #48ff48, #2cac2c);
+    background: linear-gradient(to bottom, #48ff48, #2cac2c);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #258f25;
+    background: -webkit-gradient(linear, left top, left bottom, from(#258f25), to(#258f25));
+    background: -moz-linear-gradient(top, #258f25, #258f25);
+    background: linear-gradient(to bottom, #258f25, #258f25);
+}
+.button:before{
+    content:  "\0000a0";
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    line-height: 24px;
+    margin: 0 4px -6px -4px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABQUlEQVRIia3WsUoDQRSF4c8IIYJYiUgIUUTEykZBSCEWPoKVD2GZwjewsrayFrWytBALkRRiFVstBBvFItgIIRazSzYh2UQzB4ZluXD+nXvP7C6co41O33pBVQQNMk/X/qTmBfzk1OdiAD5y6ksxAG859Y0YgOeceg3FSQGNnPoClicBwJrhSboz4Q4Iu2gOML8RIUWpjvrMr1GKZQ5lfCfmnyI++XRybQmZ38QMXvEYC5KqkoA6+Eruo6uuO4dbERLUryLuM5BTIWVRVcV7BnIyAlLA4l8hNd15dHBmcGxLuBAOagPHOMAOtjCbB9nrgzxgJVMv4srwb0kHT+PsJNuuFg6FczLKPF0jVdU7+DTG45iPBSC0o663ZVEBqSpCdNPXSnRAqrLwgmzK/2loT/2XkKiAVexiG+vCzOaFtl7+Aut8jJNXJgrQAAAAAElFTkSuQmCC") no-repeat left center transparent;
+    background-size: 100% 100%;
+}
