@@ -3,41 +3,41 @@
   <platform name="ios">
     <!-- iOS 8.0+ -->
     <!-- iPhone 6 Plus  -->
-    <icon src="images/vimcomlogosingles2.svg" width="180" height="180" />
+    <icon src="images/vimcomlogosingles2.png" width="180" height="180" />
     <!-- iOS 7.0+ -->
     <!-- iPhone / iPod Touch  -->
-    <icon src="images/vimcomlogosingles2.svg" width="60" height="60" />
-    <icon src="images/vimcomlogosingles2.svg" width="120" height="120" />
+    <icon src="images/vimcomlogosingles2.png" width="60" height="60" />
+    <icon src="images/vimcomlogosingles2.png" width="120" height="120" />
     <!-- iPad -->
-    <icon src="images/vimcomlogosingles2.svg" width="76" height="76" />
-    <icon src="images/vimcomlogosingles2.svg" width="152" height="152" />
+    <icon src="images/vimcomlogosingles2.png" width="76" height="76" />
+    <icon src="images/vimcomlogosingles2.png" width="152" height="152" />
     <!-- iOS 6.1 -->
     <!-- Spotlight Icon -->
-    <icon src="images/vimcomlogosingles2.svg" width="40" height="40" />
-    <icon src="images/vimcomlogosingles2.svg" width="80" height="80" />
+    <icon src="images/vimcomlogosingles2.png" width="40" height="40" />
+    <icon src="images/vimcomlogosingles2.png" width="80" height="80" />
     <!-- iPhone / iPod Touch -->
-    <icon src="images/vimcomlogosingles2.svg" width="57" height="57" />
-    <icon src="images/vimcomlogosingles2.svg" width="114" height="114" />
+    <icon src="images/vimcomlogosingles2.png" width="57" height="57" />
+    <icon src="images/vimcomlogosingles2.png" width="114" height="114" />
     <!-- iPad -->
-    <icon src="images/vimcomlogosingles2.svg" width="72" height="72" />
-    <icon src="images/vimcomlogosingles2.svg" width="144" height="144" />
+    <icon src="images/vimcomlogosingles2.png" width="72" height="72" />
+    <icon src="images/vimcomlogosingles2.png" width="144" height="144" />
     <!-- iPhone Spotlight and Settings Icon -->
-    <icon src="images/vimcomlogosingles2.svg" width="29" height="29" />
-    <icon src="images/vimcomlogosingles2.svg" width="58" height="58" />
+    <icon src="images/vimcomlogosingles2.png" width="29" height="29" />
+    <icon src="images/vimcomlogosingles2.png" width="58" height="58" />
     <!-- iPad Spotlight and Settings Icon -->
-    <icon src="images/vimcomlogosingles2.svg" width="50" height="50" />
-    <icon src="images/vimcomlogosingles2.svg" width="100" height="100" />
+    <icon src="images/vimcomlogosingles2.png" width="50" height="50" />
+    <icon src="images/vimcomlogosingles2.png" width="100" height="100" />
   </platform>
   <platform name="android">
-    <icon src="images/vimcomlogosingles2.svg" density="ldpi" />
-    <icon src="images/vimcomlogosingles2.svg" density="mdpi" />
-    <icon src="images/vimcomlogosingles2.svg" density="hdpi" />
-    <icon src="images/vimcomlogosingles2.svg" density="xhdpi" />
+    <icon src="images/vimcomlogosingles2.png" density="ldpi" />
+    <icon src="images/vimcomlogosingles2.png" density="mdpi" />
+    <icon src="images/vimcomlogosingles2.png" density="hdpi" />
+    <icon src="images/vimcomlogosingles2.png" density="xhdpi" />
   </platform>
   <platform name="wp8">
-    <icon src="images/vimcomlogosingles2.svg" width="99" height="99" />
+    <icon src="images/vimcomlogosingles2.png" width="99" height="99" />
     <!-- tile image -->
-    <icon src="images/vimcomlogosingles2.svg" width="159" height="159" />
+    <icon src="images/vimcomlogosingles2.png" width="159" height="159" />
   </platform>
 
 </widget>
